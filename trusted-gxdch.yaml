@@ -1,0 +1,34 @@
+registry:
+  - registry.lab.gaia-x.eu/v1
+  - gx-registry.airenetworks.es/v1
+  - gx-registry.arsys.es/v1
+  - gx-registry.aruba.it/v1
+  - gx-registry.gxdch.dih.telekom.com/v1
+  - www.delta-dao.com/registry/v1
+  - registry.gxdch.gaiax.ovh/v1
+  - aerospace-digital-exchange.eu/registry/v1
+  - gx-registry.gxdch.proximus.eu/v1
+  - last-butnotleast.github.io/registry
+compliance:
+  - compliance.lab.gaia-x.eu/v1
+  - gx-compliance.airenetworks.es/v1
+  - gx-compliance.arsys.es/v1
+  - gx-compliance.aruba.it/v1
+  - gx-compliance.gxdch.dih.telekom.com/v1
+  - www.delta-dao.com/compliance/v1
+  - compliance.gxdch.gaiax.ovh/v1
+  - aerospace-digital-exchange.eu/compliance/v1
+  - gx-compliance.gxdch.proximus.eu/v1
+  - last-butnotleast.github.io/compliance
+registration-notary:
+  - registrationnumber.notary.lab.gaia-x.eu/v1
+  - registration.lab.gaia-x.eu/v1
+  - gx-notary.airenetworks.es/v1
+  - gx-notary.arsys.es/v1
+  - gx-notary.aruba.it/v1
+  - gx-notary.gxdch.dih.telekom.com/v1
+  - www.delta-dao.com/notary/v1
+  - notary.gxdch.gaiax.ovh/v1
+  - aerospace-digital-exchange.eu/notary/v1
+  - gx-notary.gxdch.proximus.eu/v1
+  - last-butnotleast.github.io/notary
